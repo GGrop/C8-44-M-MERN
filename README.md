@@ -6,6 +6,8 @@ Se trata de un aplicación para que los usuarios mantengan un registro de sus h�
 mantenerse motivados y mejorar su productividad. También tiene un costado social donde
 podés seguir a tus amigos o a personas que te interesen.
 
+link al repositorio original: https://github.com/No-Country/C8-44-M-MERN
+
 ## Stack
 
 MongoDB - React - Node.js
